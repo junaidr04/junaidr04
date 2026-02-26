@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaidr04" alt="junaidr04" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning - **Data Structures & Algorithms (DSA)** - **MERN Stack (MongoDB, Express, React, Node.js)****
+- 🌱 **I’m currently learning - **Data Structures & Algorithms (DSA)** - **MERN Stack (MongoDB, Express, React, Node.js)****
 
 - 📫 How to reach me **jbj.jawad@gmail.com**
 
