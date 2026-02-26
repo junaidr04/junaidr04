@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Junaid Bin Jahangir</h1>
-<h3 align="center">### 💻 A passionate software engineer | 📚 Lifelong learner | ⚡ Hard-working person --- ### 🚀 About Me - Currently learning **DSA & MERN Stack** - Interested in **AI & Software Engineering** - Open to **collaboration & projects** ### 🛠️ Skills - **Languages:** C++, C, Java, JavaScript - **Frameworks:** Node.js, React - **Tools:** Git, GitHub, VS Code</h3>
+<h3 align="center">### 💻 A passionate software engineer | 📚 Lifelong learner | ⚡ Hard-working person --- ### 
+  🚀 About Me - Currently learning **DSA & MERN Stack** - Interested in **AI & Software Engineering** - Open to **collaboration & projects** ### 🛠️ Skills - **Languages:** C++, C, Java, JavaScript - **Frameworks:** Node.js, React - **Tools:** Git, GitHub, VS Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidr04&label=Profile%20views&color=0e75b6&style=flat" alt="junaidr04" /> </p>
 
