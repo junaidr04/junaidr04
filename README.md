@@ -8,75 +8,81 @@
 
 ---
 
-##🚀 About Me
+🚀 About Me
 
-🧠 Currently learning Data Structures & Algorithms (DSA)
-🌐 Learning Backend Development and building web applications
+🧠 Currently focused on Data Structures & Algorithms (DSA)
+
+🌐 Learning Backend Development and building full-stack web applications
+
 📚 Strong foundation in OOP, DBMS, Operating Systems, and Computer Networks
-🤖 Interested in AI Engineering & Scalable Software Systems
-🎯 Goal: Become a Software Engineer and build impactful products
 
-🛠️ Skills
-Programming
+🤖 Interested in AI Engineering and Scalable Software Systems
 
-C++
-JavaScript
-C
+🎯 Goal: Become a Software Engineer and build impactful, large-scale products
 
-Core Computer Science
+📫 Email: jbj.jawad@gmail.com
+
+🧠 Core Computer Science
 
 Data Structures & Algorithms
+
 Object-Oriented Programming (OOP)
+
 Database Management System (DBMS)
+
 Operating Systems (OS)
+
 Computer Networks (CN)
-System Design
 
-Web Development
+System Design (Basics)
 
-HTML
-CSS
+💻 Programming Languages
+
+C
+
+C++
+
+Java
+
 JavaScript
 
-Currently Learning
+🌐 Web Development
+
+HTML
+
+CSS
+
+JavaScript
+
+React.js
+
+Node.js
+
+Express.js
+
+🗄️ Database
+
+MongoDB
+
+SQL Basics
+
+DBMS Concepts (Normalization, ER Diagram)
+
+🧰 Tools & Platforms
+
+Git
+
+GitHub
+
+VS Code
+
+🌱 Currently Learning
 
 Backend Development
+
 MERN Stack
-- 📫 Reach me at: **jbj.jawad@gmail.com**
 
----
-
-## 🛠️ Skills
-
-### 💻 Programming Languages
-- C
-- C++
-- Java
-- JavaScript
-
-### 🌐 Web Technologies
-- HTML
-- CSS
-- React.js
-- Node.js
-- Express.js
-
-### 🗄️ Database
-- MongoDB
-- DBMS (Normalization, ER Diagram, SQL Basics)
-
-### 📚 Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Database Management System (DBMS)
-- Operating System (Basics)
-
-### 🧰 Tools & Platforms
-- Git
-- GitHub
-- VS Code
-
----
+Advanced Data Structures & Algorithms
 
 ## 🌐 Connect With Me
 
