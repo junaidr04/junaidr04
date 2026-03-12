@@ -8,11 +8,40 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Data Structures & Algorithms (DSA)** and **MERN Stack**
-- 🤖 Interested in **AI Engineering & Software Development**
-- 💡 Love solving problems and building real-world projects
-- 🤝 Open to **collaboration & team projects**
+##🚀 About Me
+
+🧠 Currently learning Data Structures & Algorithms (DSA)
+🌐 Learning Backend Development and building web applications
+📚 Strong foundation in OOP, DBMS, Operating Systems, and Computer Networks
+🤖 Interested in AI Engineering & Scalable Software Systems
+🎯 Goal: Become a Software Engineer and build impactful products
+
+🛠️ Skills
+Programming
+
+C++
+JavaScript
+C
+
+Core Computer Science
+
+Data Structures & Algorithms
+Object-Oriented Programming (OOP)
+Database Management System (DBMS)
+Operating Systems (OS)
+Computer Networks (CN)
+System Design
+
+Web Development
+
+HTML
+CSS
+JavaScript
+
+Currently Learning
+
+Backend Development
+MERN Stack
 - 📫 Reach me at: **jbj.jawad@gmail.com**
 
 ---
