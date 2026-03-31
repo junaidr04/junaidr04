@@ -1,98 +1,190 @@
-# 👋 Hi, I'm Junaid Bin Jahangir
+<h1 align="center">Hi 👋, I'm Junaid Bin Jahangir</h1>
 
-### 💻 Aspiring Software Engineer | 🚀 DSA Enthusiast | ⚡ Problem Solver
+<h3 align="center">
+💻 Passionate Software Engineer <br>
+💻 Aspiring Software Engineer <br>
+📚 Lifelong Learner <br>
+⚡ Hard-Working & Consistent Developer
+⚡ Consistent Problem Solver
+</h3>
 
 ---
 
+🚀 About Me
 ## 🚀 About Me
 
-* 🧠 Currently mastering **Data Structures & Algorithms (DSA)** for top tech interviews
-* 💻 Building scalable applications using the **MERN Stack**
+🧠 Currently focused on Data Structures & Algorithms (DSA)
+* 🧠 Currently focused on **Data Structures & Algorithms (DSA)**
+* 🌐 Learning **Backend Development** and building full-stack web applications
 * 📚 Strong foundation in **OOP, DBMS, Operating Systems, and Computer Networks**
-* 🎯 Goal: Become a **Software Engineer at Google** and build impactful products
+* 🤖 Interested in **AI Engineering and Scalable Software Systems**
+* 🎯 Goal: Become a **Software Engineer** and build impactful, large-scale products
 
+🌐 Learning Backend Development and building full-stack web applications
 📫 **Email:** [jbj.jawad@gmail.com](mailto:jbj.jawad@gmail.com)
 
+📚 Strong foundation in OOP, DBMS, Operating Systems, and Computer Networks
+
+🤖 Interested in AI Engineering and Scalable Software Systems
+
+🎯 Goal: Become a Software Engineer and build impactful, large-scale products
+
+📫 Email: jbj.jawad@gmail.com
+
+🧠 Core Computer Science
+
+Data Structures & Algorithms
+
+Object-Oriented Programming (OOP)
+
+Database Management System (DBMS)
+
+Operating Systems (OS)
+
+Computer Networks (CN)
+
+System Design (Basics)
+
+💻 Programming Languages
+
+C
+
+C++
+
+Java
+
+JavaScript
+
+🌐 Web Development
 ---
 
+HTML
 ## 🧠 Core Computer Science
 
+CSS
 * Data Structures & Algorithms
 * Object-Oriented Programming (OOP)
-* Database Management Systems (DBMS)
+* Database Management System (DBMS)
 * Operating Systems (OS)
 * Computer Networks (CN)
-* System Design
+* System Design (Basics)
 
+JavaScript
 ---
 
+React.js
 ## 💻 Programming Languages
 
-* 🟦 C++
-* 🟨 JavaScript
+Node.js
+* C
+* C++
+* Java
+* JavaScript
 
+Express.js
 ---
 
+🗄️ Database
 ## 🌐 Web Development
 
-* Frontend: HTML · CSS · JavaScript · React.js
-* Backend: Node.js · Express.js
-* Database: MongoDB · SQL
+MongoDB
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Node.js
+* Express.js
 
+SQL Basics
 ---
 
+DBMS Concepts (Normalization, ER Diagram)
+## 🗄️ Database
+
+🧰 Tools & Platforms
+* MongoDB
+* SQL Basics
+* DBMS Concepts (Normalization, ER Diagram)
+
+Git
+---
+
+GitHub
 ## 🧰 Tools & Platforms
 
-* Git · GitHub · VS Code
+VS Code
+* Git
+* GitHub
+* VS Code
 
+🌱 Currently Learning
 ---
 
+Backend Development
 ## 🌱 Currently Learning
 
-* Advanced DSA (Interview Patterns for FAANG)
-* System Design (Scalable Systems)
-* Full MERN Stack Development
+MERN Stack
+* Backend Development
+* MERN Stack
+* Advanced Data Structures & Algorithms
 
+Advanced Data Structures & Algorithms
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/junaid-bin-jahangir-70712232a
-* 📘 Facebook: https://www.facebook.com/jack.sparrow102497
-* 📸 Instagram: https://instagram.com/jack_sparrow_7c
-* 🧠 Codeforces: https://codeforces.com/profile/junaid_sparrow_12
-* 💡 LeetCode: https://leetcode.com/junaid_sparrow0411
+<p align="left">
+<a href="https://linkedin.com/in/junaid bin jahangir" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://fb.com/junaid bin jahangir" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+<a href="https://fb.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/jack_sparrow_7c" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+<a href="https://instagram.com/jack_sparrow_7c" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+
+<a href="https://codeforces.com/profile/junaid_sparrow_12" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
+<a href="https://codeforces.com/profile/junaid_sparrow_12" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.leetcode.com/junaid_sparrow0411" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+<a href="https://leetcode.com/junaid_sparrow0411" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/jacksparrow04" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
+<a href="https://auth.geeksforgeeks.org/user/jacksparrow04" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
+</a>
+
+</p>
 
 ---
-
-## 🧑‍💻 Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=junaidr04\&show_icons=true\&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidr04\&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junaidr04)
-
----
-
+@@ -159,11 +152,11 @@ Advanced Data Structures & Algorithms
 ## 🏆 GitHub Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=junaidr04)
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=junaidr04"/>
+</a>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=junaidr04\&label=Profile%20views\&color=0e75b6\&style=flat)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=junaidr04&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
