@@ -11,10 +11,10 @@
 ## 🚀 About Me
 
 * 🧠 Currently focused on **Data Structures & Algorithms (DSA)**
-* 🌐 Learning **Backend Development** and building full-stack web applications
+* 🌐 Learning **Backend Development** and building full-stack applications
 * 📚 Strong foundation in **OOP, DBMS, Operating Systems, and Computer Networks**
-* 🤖 Interested in **AI Engineering and Scalable Software Systems**
-* 🎯 Goal: Become a **Software Engineer** and build impactful, large-scale products
+* 🤖 Interested in **AI Engineering & Scalable Systems**
+* 🎯 Goal: Become a **Software Engineer** and build impactful large-scale products
 
 📫 **Email:** [jbj.jawad@gmail.com](mailto:jbj.jawad@gmail.com)
 
@@ -33,37 +33,33 @@
 
 ## 💻 Programming Languages
 
-* C
-* C++
-* Java
-* JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+</p>
 
 ---
 
 ## 🌐 Web Development
 
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Node.js
-* Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
 
 ---
 
 ## 🗄️ Database
 
-* MongoDB
-* SQL Basics
-* DBMS Concepts (Normalization, ER Diagram)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ---
 
 ## 🧰 Tools & Platforms
 
-* Git
-* GitHub
-* VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
@@ -78,85 +74,45 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="www.linkedin.com/in/junaid-bin-jahangir-70712232a" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<a href="https://www.linkedin.com/in/junaid-bin-jahangir-70712232a" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://www.facebook.com/jack.sparrow102497" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+<img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 
 <a href="https://instagram.com/jack_sparrow_7c" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-
-<a href="https://codeforces.com/profile/junaid_sparrow_12" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
-</a>
-
-<a href="https://leetcode.com/junaid_sparrow0411" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/jacksparrow04" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
-</a>
-
-</p>
-
----
-
-## 🧑‍💻 Languages & Tools
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidr04&show_icons=true&locale=en&layout=compact"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=junaidr04&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidr04&show_icons=true&locale=en"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidr04&theme=tokyonight" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidr04"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidr04&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=junaidr04"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=junaidr04&theme=onedark" />
 </p>
 
 ---
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=junaidr04&label=Profile%20views&color=0e75b6&style=flat"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=junaidr04&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
