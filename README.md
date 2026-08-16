@@ -1,113 +1,80 @@
-<h1 align="center">Hi 👋, I'm Junaid Bin Jahangir</h1>
+<h1 align="center">Hi there, I'm Junaid Bin Jahangir 👋</h1>
 <h3 align="center">
-💻 Aspiring Software Engineer <br>
-📚 Lifelong Learner <br>
-⚡ Consistent Problem Solver
+CSE Undergrad @ IIUC | Full-Stack Developer | DSA & System Design Enthusiast
 </h3>
+
+<p align="center">
+Building scalable full-stack applications and solving algorithmic problems, with a goal of becoming a Software Engineer at a top-tier global tech company.
+</p>
 
 ---
 
-## 🚀 About Me
-* 🧠 Currently focused on **Data Structures & Algorithms (DSA)**
-* 🌐 Building full-stack applications with the **MERN Stack**
-* 📚 Strong foundation in **OOP, DBMS, and Computer Networks**
-* 🤖 Interested in **AI Engineering & Scalable Systems**
-* 🎯 Goal: Become a **Software Engineer** and build impactful large-scale products
+## 🧑‍💻 About Me
 
-📫 **Email:** [jbj.jawad@gmail.com](mailto:jbj.jawad@gmail.com)
+I'm a final-year CSE student at International Islamic University Chittagong (Batch 2022–2026), currently deep-diving into **Data Structures & Algorithms** and **System Design** while building production-grade full-stack projects solo. I care about writing clean, explainable code — not just making things work, but understanding *why* they work.
+
+- 🔭 Currently sharpening: Advanced DSA (Graphs, DSU) & System Design fundamentals
+- 🌐 Built two full-stack MERN applications from scratch, solo — see below
+- 📚 Solid grounding in DBMS, Computer Networks & Operating Systems
+- 🎯 Targeting: Software Engineer roles at top-tier international tech companies
+- 📫 Reach me: [jbj.jawad@gmail.com](mailto:jbj.jawad@gmail.com)
 
 ---
 
 ## 💼 Featured Projects
 
 ### 🛒 [NeoMart](https://github.com/junaidr04/NeoMart) — Full-Stack E-Commerce Platform
-A complete MERN e-commerce platform with JWT authentication, Stripe payments, Redis caching, an admin dashboard with analytics, wishlist, reviews, coupons, and dark mode.
-- 🔗 Live: [neo-mart-peach.vercel.app](https://neo-mart-peach.vercel.app)
-- ⚙️ Stack: React, Node.js, Express, MongoDB, Redis, Stripe
+Solo-built MERN e-commerce platform with JWT authentication, Stripe payment integration, and Redis-backed caching for faster catalog reads. Includes an admin analytics dashboard (Recharts), wishlist, reviews, and coupon system.
+- **Stack:** React, Node.js, Express, MongoDB, Redis, Stripe
+- 🔗 [Live Demo](https://neo-mart-peach.vercel.app) · [Source](https://github.com/junaidr04/NeoMart)
 
-### 🎓 [IIUC Campus Complaint Management System](https://github.com/junaidr04/iiuc-complaint-system) — Full-Stack MERN Monorepo
-An AI-powered grievance redressal system for university campuses, with role-based dashboards (Admin/Staff/Student), real-time notifications, and QR-based complaint tracking.
-- 🔗 Live: [iiuc-complaint-system.vercel.app](https://iiuc-complaint-system.vercel.app)
-- ⚙️ Stack: React, TypeScript, Node.js, Express, MongoDB Atlas
+### 🎓 [CCMS — Campus Complaint Management System](https://github.com/junaidr04/iiuc-complaint-system) — Full-Stack MERN Monorepo
+Solo-built grievance redressal system for university campuses with role-based dashboards (Admin/Staff/Student), real-time Socket.io notifications, Cloudinary-based image uploads, and QR-code-linked PDF complaint receipts.
+- **Stack:** React 19, TypeScript, Node.js, Express, MongoDB Atlas, Socket.io, Gemini API
+- 🔗 [Live Demo](https://iiuc-complaint-system.vercel.app) · [Source](https://github.com/junaidr04/iiuc-complaint-system)
 
 ---
 
 ## 🧠 Core Computer Science
-* Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* Database Management System (DBMS)
-* Computer Networks (CN)
-* System Design (in progress)
+
+`Data Structures & Algorithms` `Object-Oriented Programming` `DBMS` `Computer Networks` `Operating Systems` `System Design (in progress)`
 
 ---
 
-## 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
-</p>
+## 🛠️ Tech Stack
 
----
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" /></p>
 
-## 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
-</p>
+**Web Development**
+<p><img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" /></p>
 
----
+**Database**
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></p>
 
-## 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
-
-## 🧰 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 🌱 Currently Learning
-* Backend Development
-* MERN Stack
-* Advanced Data Structures & Algorithms
-* System Design
+**Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p>
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/junaid-bin-jahangir-70712232a" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://www.facebook.com/jack.sparrow102497" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" />
-</a>
-<a href="https://instagram.com/jack_sparrow_7c" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=junaidr04&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidr04&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=junaidr04&theme=onedark" />
-</p>
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=junaidr04&label=Profile%20Views&color=0e75b6&style=flat" />
