@@ -37,7 +37,11 @@ Solo-built grievance redressal system for university campuses with role-based da
 
 ## 🧠 Core Computer Science
 
-`Data Structures & Algorithms` `Object-Oriented Programming` `DBMS` `Computer Networks` `Operating Systems` `System Design (in progress)`
+`Data Structures & Algorithms` 
+`Object-Oriented Programming`
+`DBMS` `Computer Networks` 
+`Operating Systems` 
+`System Design (in progress)`
 
 ---
 
