@@ -11,7 +11,7 @@ Building scalable full-stack applications and solving algorithmic problems, with
 
 ## 🧑‍💻 About Me
 
-I'm a final-year CSE student at International Islamic University Chittagong (Batch 2022–2026), currently deep-diving into **Data Structures & Algorithms** and **System Design** while building production-grade full-stack projects solo. I care about writing clean, explainable code — not just making things work, but understanding *why* they work.
+I'm a final-year CSE student at International Islamic University Chittagong (Batch 2024–2028), currently deep-diving into **Data Structures & Algorithms** and **System Design** while building production-grade full-stack projects solo. I care about writing clean, explainable code — not just making things work, but understanding *why* they work.
 
 - 🔭 Currently sharpening: Advanced DSA (Graphs, DSU) & System Design fundamentals
 - 🌐 Built two full-stack MERN applications from scratch, solo — see below
