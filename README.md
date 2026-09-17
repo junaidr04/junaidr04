@@ -2,9 +2,9 @@
 
 # Hi, I'm Junaid Bin Jahangir 👋
 
-### Software Engineer in the making — CSE @ IIUC | Full-Stack Developer | DSA & System Design
+### Software Engineer in the making — CSE @ IIUC | Full-Stack Developer | DSA & System Design | AI/ML
 
-Building production-grade full-stack applications and solving algorithmic problems, with the goal of becoming a Software Engineer at a top-tier global tech company.
+Building production-grade full-stack applications, solving algorithmic problems, and exploring AI/ML, with the goal of becoming a Software Engineer at a top-tier global tech company.
 
 [![Email](https://img.shields.io/badge/Email-jbj.jawad%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jbj.jawad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-bin-jahangir-70712232a)
@@ -19,7 +19,8 @@ Building production-grade full-stack applications and solving algorithmic proble
 I'm a CSE undergraduate at **International Islamic University Chittagong** (Batch 2024–2028), currently sharpening my **Data Structures & Algorithms** and **System Design** skills while building production-grade full-stack applications solo. I care about writing clean, explainable code — not just making things work, but understanding *why* they work.
 
 - 🔭 Currently deepening: Advanced DSA (Graphs, DSU) & System Design fundamentals
-- 🌐 Solo-built two full-stack MERN applications from scratch — see below
+- 🤖 Learning AI/ML from the ground up — trained models (Logistic Regression, Decision Tree, Random Forest) for a university AI course and conference paper
+- 🌐 Solo-built three full-stack applications from scratch — see below
 - 📚 Solid grounding in DBMS, Computer Networks & Operating Systems
 - 🎯 Targeting: Software Engineer roles at top-tier global tech companies
 - 📫 Reach me: [jbj.jawad@gmail.com](mailto:jbj.jawad@gmail.com)
@@ -52,6 +53,23 @@ Solo-built grievance redressal system for university campuses with role-based da
 **Stack:** React 19 · TypeScript · Node.js · Express · MongoDB Atlas · Socket.io · Gemini API
 
 🔗 [Live Demo](https://iiuc-complaint-system.vercel.app) · [Source](https://github.com/junaidr04/iiuc-complaint-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 [Jack's Property Lab](https://github.com/junaidr04/python/tree/main/rent_predictor)
+**ML-Powered House Rent Predictor**
+
+Full-stack rent estimation app with a FastAPI backend serving a scikit-learn linear regression model, and a React/Vite frontend. Enter room count and floor area to get an instant estimated monthly rent in BDT.
+
+**Stack:** Python · FastAPI · scikit-learn · pandas · React · Vite
+
+🔗 [Live Demo](https://jack-rent-predictor.vercel.app) · [Source](https://github.com/junaidr04/python/tree/main/rent_predictor)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -107,6 +125,6 @@ Solo-built grievance redressal system for university campuses with role-based da
 
 <div align="center">
 
-**🎯 Currently grinding NeetCode 150 & System Design — building toward a Software Engineer role at a top-tier global tech company.**
+**🎯 Currently grinding NeetCode 150, System Design & AI/ML — building toward a Software Engineer role at a top-tier global tech company.**
 
 </div>
